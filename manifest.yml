@@ -1,7 +1,7 @@
 ---
 declared-services:
   my-stt-service:
-    label: speech_to_text
+    label: speech_to_text-sanjana's
     plan: standard
 applications:
 - name: speech-to-text-sanjana
